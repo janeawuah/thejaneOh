@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thejaneOh
+- 👋 Hi, I’m @tjaneawuah
 - 👀 I’m interested in software engineering and data analytics,more specifically business analytics.
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on ML and software engineering projects
